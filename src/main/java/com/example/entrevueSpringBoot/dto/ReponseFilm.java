@@ -1,8 +1,6 @@
 package com.example.entrevueSpringBoot.dto;
 
-import com.example.entrevueSpringBoot.domain.Acteur;
 import com.example.entrevueSpringBoot.domain.Film;
-import com.example.entrevueSpringBoot.entity.ActeurEntity;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;

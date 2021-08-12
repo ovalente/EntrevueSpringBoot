@@ -1,6 +1,5 @@
 package com.example.entrevueSpringBoot.domain;
 
-import com.example.entrevueSpringBoot.dto.ReponseActeur;
 import java.util.List;
 import lombok.Builder;
 import lombok.Data;

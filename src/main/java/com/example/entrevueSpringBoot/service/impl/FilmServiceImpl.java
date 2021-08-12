@@ -16,7 +16,6 @@ public class FilmServiceImpl implements FilmService {
     private final FilmMapper filmMapper;
     private final FilmRepository filmRepository;
 
-
     @Override
     @Transactional
     public Film createFilm(Film film) {

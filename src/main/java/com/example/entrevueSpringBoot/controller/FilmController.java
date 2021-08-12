@@ -1,12 +1,9 @@
 package com.example.entrevueSpringBoot.controller;
 
-import com.example.entrevueSpringBoot.domain.Film;
 import com.example.entrevueSpringBoot.dto.ReponseFilm;
 import com.example.entrevueSpringBoot.dto.RequeteCreationFilm;
 import com.example.entrevueSpringBoot.service.FilmService;
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
